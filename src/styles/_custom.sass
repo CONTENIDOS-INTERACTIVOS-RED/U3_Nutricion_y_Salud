@@ -17,19 +17,75 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #F6ECAA
   &-2
-    background-color: #FFFBE8
+    background-color: #DCE8FA
   &-3
-    background-color: #F0E9F6
+    background-color: #D7F9FE
   &-4
-    background-color: #EAF8FD
+    background-color: #2F4F7E
+  &-5
+    background-color: #D9D5E3
+  &-6
+    background-color: #9EF0FD
+  &-7
+    background-color: #EAF2FB
+  &-8
+    background-color: #FCF9E5
+  &-9
+    background-color: #453179 !important
+  &-10
+    background-color: #EBE9F0
+  &-11
+    background-color: #C6C0D6
+  &-12
+    background-color: #E1E1E1
+
   &-info
     background-color: #E8EEFD
   &-sintesis
     background-color: #F9F9F9
   &-white
     background-color: #fff
+
+.bg-h85
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: -8%
+    left: -48px
+    width: calc( 100% + 98px)
+    height: 90%
+    transform: translateY(-9%)
+    background-color: #D9D5E3
+    z-index: 0
+  .col-lg-6, .row, .col-lg-5
+    z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
+  &-2
+    position: relative
+    &::after
+      content: ''
+      position: absolute
+      bottom: -8%
+      left: -48px
+      width: calc( 100% + 98px)
+      height: 94%
+      transform: translateY(-9%)
+      background-color: #D7F9FE
+      z-index: 0
+    .col-lg-6, .row, .col-lg-5, .col-lg-7
+      z-index: 1
+    @media screen and (max-width: $bp-max-md)
+      padding: 1rem
+    
+      &::after
+        height: 100%
 
 .border-top
   &.color-primario
@@ -41,6 +97,14 @@
 
 // Full Width Background
 .bg-full-width
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-full-width-2
   background-size: cover
   background-repeat: no-repeat
   background-position: bottom
@@ -53,9 +117,8 @@
   &-1
     background-image: url("../assets/bg/bg1.png") !important
     background-position: top
-  &-2
-    // background-image: url("../assets/bg/bg2.png") !important
-    background-position: bottom
+
+    background-position: 0 100px
   &-slider
     background-image: url("../assets/bg/bg-slider.png") !important
     background-position: bottom
@@ -97,15 +160,15 @@ $custom-card-img-height: 322px
 
 
 .acordion__header
-  background-color: lighten($color-acento-contenido, 25%) !important
+  background-color: lighten($color-acento-contenido, 55%) !important
 
 .acordion__header--active
   background-color: $color-acento-contenido !important
   h4, i
-    color: #000 !important
+    color: #fff !important
 
 .acordion__contenido
-  background-color: lighten($color-acento-contenido, 27%) !important
+  background-color: lighten($color-acento-contenido, 57%) !important
 
 
 .anexo__texto
@@ -210,3 +273,12 @@ $custom-card-img-height: 322px
   a
     text-decoration: none
     color: $color-sistema-texto
+
+.lista-ul .fas
+  color: #292584 !important
+
+.bloque-texto-c.color-primario
+  background-color: #DCE8FA !important
+
+.bloque-texto-c i
+  color: #56838A !important
