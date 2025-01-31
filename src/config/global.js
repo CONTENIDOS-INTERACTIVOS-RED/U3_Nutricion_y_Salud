@@ -121,123 +121,104 @@ export default {
   referencias: [
     {
       referencia:
-        'Consejo Nacional de Política Económica Social República de Colombia Departamento Nacional de Planeación (2007). Documento CONPES social 113. POLÍTICA NACIONAL DE SEGURIDAD ALIMENTARIA Y NUTRICIONAL. ',
+        'UNICEF (2021). Entornos saludables para niños sanos. División de Programas Fondo de las Naciones Unidas para la Infancia. United Nations Plaza Nueva York, NY, 10017, Estados Unidos',
       link:
-        'https://www.minagricultura.gov.co/Normatividad/Conpes/Conpes%20113%20de%202008.pdf ',
-    },
-    {
-      referencia: 'Declaración de Roma Sobre la Seguridad Alimentaria.',
-      link: 'https://www.oda-alc.org/documentos/1341937156.pdf ',
+        'https://www.unicef.org/media/114181/file/SPANISH-Healthy-Environments-for-Healt',
     },
     {
       referencia:
-        'Deutsche Wlthungerhife e.V. y Concern Worldwode (2021). El mapa del hambre en el mundo. ',
+        'REPÚBLICA DE COLOMBIA. (2019). Política Nacional de Infancia y Adolescencia Ruta Integral de Atenciones. Colombia.',
       link:
-        'https://elordenmundial.com/mapas-y-graficos/el-mapa-del-hambre-en-el-mundo/',
+        'https://www.icbf.gov.co/system/file/politica_nacional_de_infancia_y_adolescencia_-_ria.pdf',
     },
     {
       referencia:
-        'Gobierno de Colombia. (2018). POLÍTICA NACIONAL DE INFANCIA Y ADOLESCENCIA 2018-2030.',
+        'UNICEF. (2019). EL ESTADO MUNDIAL DE LA INFANCIA 2019 Crecer bien en un mundo en transformación.',
       link:
-        'https://www.icbf.gov.co/sites/default/files/politica_nacional_de_infancia_y_adolescencia.pdf ',
+        'https://www.unicef.org/lac/sites/unicef.org.lac/files/2019-10/20191015_SOWC_2019_LACRO_e-version_SP.pdf',
     },
     {
       referencia:
-        'Bonilla Caballero, Y. (2012).  Análisis detallado de las políticas de alimentación escolar en América Latina para el fortalecimiento del programa de alimentación escolar en Colombia. FAO. Colombia.  ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/96510 ',
+        'MINISTERIO DE AGRICULTURA. (2013) Lineamientos estratégicos de política pública Agricultura Campesina, Familiar y Comunitaria ACFC. Colombia.',
+      link: 'https://www.minagricultura.gov.co/lineamientos-acfc.pdf',
     },
     {
       referencia:
-        'Correa Restrepo, M. (2010). Apuesta por la infancia en Colombia: (ed.). Barranquilla, Colombia: Universidad del Norte. Universidad del Valle, Fundación Fesco, Fundación Caminos de Identidad, Fundación Cultural Genninnndo, Fundación Bernard van Leen, Barranqujlla: Ediciones Uninorte, 20107.',
-      link:
-        'https://elibro.net/es/ereader/tecnologicadeloriente/85292?page=6. ',
+        'ARAYA, H. ET.AL. (1997). Producción y manejo de datos de composición química de alimentos en nutrición. Capítulo 2. Uso de tablas de composición de alimentos en las intervenciones alimentarias y nutricionales. Chile.',
+      link: 'https://www.fao.org/4/ah833s/AH833S00.htm',
     },
     {
       referencia:
-        'KATZ, D (2015). Nutrición Médica. 3ª edición. Wolters Kluwer. ',
+        'Bonilla Caballero, Y. (2012). Análisis detallado de las políticas de alimentación escolar en América Latina para el fortalecimiento del programa de alimentación escolar en Colombia. FAO. Colombia.',
+      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/96510',
+    },
+    {
+      referencia:
+        'KATZ, D (2015). Nutrición Médica. 3ª edición. Wolters Kluwer.',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/94658',
+    },
+    {
+      referencia:
+        'GALINDO, M. (2014). Efecto de la fortificación casera con micronutrientes en polvo, como una estrategia de intervención contra la deficiencia de micronutrientes en población infantil de 12 hasta 59 meses, de cuatro municipios del departamento del Atlántico, pertenecientes a programas de complementación alimentaria. Universidad Nacional. Colombia.',
+      link:
+        'https://repositorio.unal.edu.co/bitstream/handle/unal/49656/52269643.2014.pdf?sequence=1&isAllowed=y',
     },
   ],
   glosario: [
     {
-      termino: 'Acceso a la alimentación ',
+      termino: 'Agricultura Campesina Familiar y Comunitaria',
       significado:
-        'posibilidad de todas las personas de alcanzar una alimentación adecuada y sostenible. Se refiere a los alimentos que puede obtener o comprar una familia, una comunidad o un país. Sus determinantes básicos son el nivel de ingresos, la condición de vulnerabilidad, las condiciones socio-geográficas, la distribución de ingresos y activos (monetarios y no monetarios) y los precios de los alimentos.',
+        'sistema de producción y organización gestionado y operado por mujeres, hombres, familias, y comunidades campesinas, indígenas, negras, afrodescendientes, raizales, y palenqueras que conviven en los territorios rurales del país.',
     },
     {
-      termino: 'Aprovechamiento o utilización biológica de los alimentos',
+      termino: 'Dentición',
       significado:
-        'se refiere a cómo y cuánto aprovecha el cuerpo humano los alimentos que consume y cómo los convierte en nutrientes para ser asimilados por el organismo. Sus principales determinantes son: el medio ambiente, el estado de salud de las personas, los entornos y estilos de vida, la situación nutricional de la población, la disponibilidad, la calidad y el acceso a los servicios de salud, agua potable, saneamiento básico y fuentes de energía.',
+        'proceso por el que los dientes de los bebés y niños pequeños crecen a través de las encías',
     },
     {
-      termino: 'Inocuidad de los alimentos',
+      termino: 'Entornos seguros y saludables',
       significado:
-        'se refiere al conjunto de características de los alimentos que garantizan que sean aptos para el consumo humano, que exigen el cumplimiento de una serie de condiciones y medidas necesarias durante la cadena agroalimentaria hasta el consumo y el aprovechamiento de estos, asegurando que una vez ingeridos no representen un riesgo (biológico, físico o químico) que menoscabe la salud. No se puede prescindir de la inocuidad de un alimento al examinar la calidad, dado que la inocuidad es un atributo de la calidad. Sus determinantes básicos son: la normatividad (elaboración, promoción, aplicación, seguimiento); la inspección, vigilancia y control; los riesgos biológicos, físicos y químicos, y la manipulación, conservación y preparación de los alimentos.',
+        'es aquel que promueve la salud y la seguridad de las personas, ya sea en el trabajo, en el hogar, en el estudio, en el esparcimiento, o en la comunidad para niños, niñas y adolescentes.',
     },
     {
-      termino: 'Carbohidratos',
+      termino: 'Esquema de vacunación',
       significado:
-        'los carbohidratos son uno de los macronutrientes y la principal fuente de energía del cuerpo. Existen dos tipos principales de carbohidratos: los azúcares (presente en la leche, las frutas, el azúcar de mesa y los dulces) y los almidones, que se encuentran principalmente en los cereales, tubérculos, panes, galletas y pastas.',
+        'guía que indica la forma en que se aplican las vacunas aprobadas en un país. En ella se especifica: La edad en la que se debe aplicar la vacuna, El número de dosis, La vía de aplicación, La cantidad de vacuna por dosis.',
     },
     {
-      termino: 'Consumo',
+      termino: 'Mercados campesinos y comunitarios',
       significado:
-        'se refiere a los alimentos que comen las personas y está relacionado con la selección de estos, las creencias, las actitudes y las prácticas. Sus determinantes son: la cultura, los patrones y los hábitos alimentarios, la educación alimentaria y nutricional, la información comercial y nutricional, el nivel educativo, la publicidad, el tamaño y la composición de la familia.',
+        'esquemas de comercialización de bienes y servicios agropecuarios a nivel local caracterizados por: Presencia y gestión, de manera exclusiva o principal, por parte de productores y organizaciones de agricultura campesina, familiar y comunitaria; ausencia o mínima intermediación (limitada a algunos productos no disponibles localmente); venta de productos frescos, de temporada y procesados; promoción de alimentos y productos propios del territorio; búsqueda de un precio justo tanto para el productor como para el consumidor; fomento de la agricultura limpia o agroecológica.',
     },
     {
-      termino: 'Desnutrición',
+      termino: 'Micronutrientes',
       significado:
-        'corresponde a la condición que se produce cuando el cuerpo no recibe los nutrientes necesarios para mantenerse sano. Puede ser causada por una mala alimentación, inanición, trastornos alimentarios, o por problemas para digerir o absorber los nutrientes. ',
+        'sustancias que se encuentran en los alimentos y que el cuerpo necesita en pequeñas cantidades para realizar sus funciones celulares: vitaminas, minerales, aminoácidos, ácidos grasos y enzimas.',
     },
     {
-      termino: 'Disponibilidad de alimentos',
+      termino: 'Multimezclas',
       significado:
-        'cantidad de alimentos con que se cuenta a nivel nacional, regional y local. Está relacionada con el suministro suficiente de estos frente a los requerimientos de la población y depende de la producción y la importación. Está determinada por: la estructura productiva (agropecuaria, agroindustrial), los sistemas de comercialización internos y externos, los factores productivos (tierra, crédito, agua, tecnología, recurso humano), las condiciones ecosistémicas (clima, recursos genéticos y biodiversidad), las políticas de producción y comercio, y las tensiones sociopolíticas (relaciones económicas, sociales y políticas entre actores).',
+        'mezclas de alimentos que suelen combinar ingredientes locales, de fácil consecución y nutritivos para crear alimentos balanceados y cómodos de preparar,',
     },
     {
-      termino: 'Entorno saludable ',
+      termino: 'Rutas de Atención Integral',
       significado:
-        'un entorno saludable es aquel que brinda los elementos necesarios para la salud física y espiritual, el bienestar cultural y la felicidad de las personas. Estos entornos se encuentran en los lugares donde viven las personas, como el hogar, el barrio, la localidad, los sitios de estudio, los lugares de trabajo y esparcimiento.',
+        'conjunto de servicios y atenciones universales y diferenciados dirigidos a la primera infancia (0 a 5 años) y se enfoca en garantizar la integralidad de la política y la articulación de las atenciones necesarias para el desarrollo óptimo de los niños.',
     },
     {
-      termino: 'Emaciación',
+      termino: 'Soberanía alimentaria',
       significado:
-        'tipo de desnutrición que se caracteriza por un peso insuficiente en relación con la altura, causado por una pérdida de peso repentina, ya sea por una alimentación insuficiente o por una enfermedad infecciosa y en paralelo.',
+        'derecho de un país a definir sus propias políticas y estrategias sustentables de producción, distribución y consumo de alimentos, que garanticen el derecho a la alimentación sana y nutritiva para toda la población, respetando sus culturas y la diversidad de los sistemas productivos, de comercialización y gestión de los espacios rurales.',
     },
     {
-      termino: 'Grasas',
+      termino: 'Sistema de Salud',
       significado:
-        'son nutrientes que el cuerpo utiliza para generar energía, hormonas, membranas celulares y tejido nervioso. También ayudan a absorber las vitaminas A, D, E y K. Provienen de origen animal y vegetal, principalmente de nueces, aceites vegetales, el aguacate y el coco. Pueden ser saturadas o insaturadas, y la mayoría de los alimentos contienen ambos tipos. Sin embargo, es importante consumirlas con moderación, ya que el exceso de grasa puede ser poco saludable.',
+        'estructura social que busca mejorar y mantener la salud de la población. Los sistemas de salud pueden ser públicos, privados o una combinación de ambos y permite la interacción con distintas entidades en función del cumplimiento y garantía del servicio',
     },
     {
-      termino: 'Hambre',
+      termino: 'Vacunas',
       significado:
-        'es la sensación física que además de parecer incómoda es dolorosa, causada por un consumo insuficiente de energía alimentaria. Es crónica cuando la persona no consume una cantidad suficiente de calorías de forma regular para llevar una vida normal, activa y saludable, según su edad, estilo de vida y requerimientos nutricionales.',
-    },
-    {
-      termino: 'Inseguridad alimentaria',
-      significado:
-        'es la falta de acceso regular a los alimentos nutritivos e inocuos, o la incapacidad de pagarlos.',
-    },
-    {
-      termino: 'Minerales',
-      significado:
-        'los minerales son clasificados como macrominerales y microminerales, según la cantidad que debe de ser ingerida por persona. El cuerpo humano necesita una mayor cantidad de calcio, fósforo, magnesio, sodio, potasio, cloro y azufre, que son considerados macrominerales. Se encuentran en una gran cantidad de alimentos como frutas y verduras, lácteos, leguminosas, productos de origen animal y cereales por lo que la importancia de llevar una dieta balanceada contribuye a alcanzar los niveles adecuados de estos nutrimentos. ',
-    },
-    {
-      termino: 'Proteínas',
-      significado:
-        'son macromoléculas formadas por cadenas de aminoácidos, provienen principalmente de origen animal y en menor proporción y diversidad de aminoácidos, de origen vegetal. Su importancia en la alimentación radica en que son necesarias para la estructura, función y regulación de los tejidos y órganos del cuerpo.',
-    },
-    {
-      termino: 'Sistema de salud',
-      significado:
-        'es una estructura social que reúne a personas y acciones para mejorar y mantener la salud de la población. En Colombia, el sistema de salud está regulado por el Ministerio de la Salud y Protección Social y es parte del Sistema de Seguridad Social.',
-    },
-    {
-      termino: 'Vitaminas',
-      significado:
-        'son sustancias orgánicas que el cuerpo necesita para crecer, desarrollarse y funcionar correctamente. Son esenciales para el funcionamiento celular y se obtienen principalmente a través de la alimentación',
+        'las vacunas se obtienen inactivando o debilitando el microorganismo que causa la enfermedad, para que cuando se aplique a una persona, el cuerpo produzca defensas contra esa enfermedad, las cuales lo protegerán de padecerla.',
     },
   ],
 }
