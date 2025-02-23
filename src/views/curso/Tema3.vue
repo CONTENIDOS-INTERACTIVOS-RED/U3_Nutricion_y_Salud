@@ -267,6 +267,9 @@
                 li.mb-1
                   i.fas.fa-check-circle
                   | #[b Primeros molares]. Emergen entre los 13 y 18 meses.
+                li.mb-1
+                  i.fas.fa-check-circle
+                  | #[b Caninos]. Salen entre los 16 y 23 meses.
                 li.mb-2
                   i.fas.fa-check-circle
                   | #[b Segundos molares]. Aparecen alrededor de los 2 años.

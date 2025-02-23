@@ -59,7 +59,6 @@
 
     p(data-aos="fade-left").mb-4 Las vacunas son una de las herramientas más importantes para prevenir enfermedades, junto con el agua potable, logrando salvar millones de vidas anualmente. El sistema de salud colombiano promueve un esquema de vacunación dirigido a todos los niños menores de cinco (5) años; el esquema de vacunación es una guía de inmunizaciones, técnicamente diseñada, que indica las vacunas aprobadas en el país, las edades de aplicación, el número de dosis, la vía de aplicación y la cantidad de vacuna por dosis. 
 
-    p(data-aos="fade-right").mb-5 Estos elementos aseguran que SanoDelight  opere dentro del marco legal, protegiendo tanto a los consumidores como a la empresa.
 
 
     .bg-color-white.shadow-soft.py-4.px-lg-5.mb-5
@@ -72,7 +71,7 @@
               h3.mb-1 Esquema de vacunación de Colombia
               p Para el caso de Colombia, el esquema correspondiente, lo puede encontrar en el siguiente enlace: 
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/ficha-esquema-vacunacion-vf2.pdf" target="_blank")
+              a.boton.color-acento-botones(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/ficha-esquema-vacunacion-vf2.pdf" target="_blank")
                 span Ir al sitio
                 i.fas.fa-arrow-right
 

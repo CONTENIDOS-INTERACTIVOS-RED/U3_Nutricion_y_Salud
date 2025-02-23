@@ -173,7 +173,7 @@ export default {
     {
       termino: 'Dentición',
       significado:
-        'proceso por el que los dientes de los bebés y niños pequeños crecen a través de las encías',
+        'proceso por el que los dientes de los bebés y niños pequeños crecen a través de las encías.',
     },
     {
       termino: 'Entornos seguros y saludables',
@@ -198,7 +198,7 @@ export default {
     {
       termino: 'Multimezclas',
       significado:
-        'mezclas de alimentos que suelen combinar ingredientes locales, de fácil consecución y nutritivos para crear alimentos balanceados y cómodos de preparar,',
+        'mezclas de alimentos que suelen combinar ingredientes locales, de fácil consecución y nutritivos para crear alimentos balanceados y cómodos de preparar.',
     },
     {
       termino: 'Rutas de Atención Integral',
@@ -213,7 +213,7 @@ export default {
     {
       termino: 'Sistema de Salud',
       significado:
-        'estructura social que busca mejorar y mantener la salud de la población. Los sistemas de salud pueden ser públicos, privados o una combinación de ambos y permite la interacción con distintas entidades en función del cumplimiento y garantía del servicio',
+        'estructura social que busca mejorar y mantener la salud de la población. Los sistemas de salud pueden ser públicos, privados o una combinación de ambos y permite la interacción con distintas entidades en función del cumplimiento y garantía del servicio.',
     },
     {
       termino: 'Vacunas',
