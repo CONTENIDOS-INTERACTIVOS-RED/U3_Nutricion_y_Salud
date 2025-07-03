@@ -32,7 +32,7 @@
 
 
     .bg-full-width.bg-color-info.mb-5
-      .px-lg-5.pt-5.pt-lg-0
+      .px-4.px-lg-5.pt-5.pt-lg-0
 
         .row.justify-content-center.align-items-center
 

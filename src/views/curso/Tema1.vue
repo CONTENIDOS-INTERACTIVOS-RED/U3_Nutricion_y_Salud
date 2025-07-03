@@ -61,7 +61,7 @@
 
 
 
-    .bg-color-white.shadow-soft.py-4.px-lg-5.mb-5
+    .bg-color-white.shadow-soft.py-4.px-4.px-lg-5.mb-5
       .row.justify-content-around.align-items-center
         .col-md-auto
           img(src="@/assets/template/bg-icono-link.svg", style="width: 90px;")

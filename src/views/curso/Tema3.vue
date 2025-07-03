@@ -190,7 +190,7 @@
               alt=""
               style="width: 90px"
             )
-            h4 Informar y educar
+            h4.text-center Informar y educar
             p.mb-0.text-center Proporcionar información sobre los beneficios de la lactancia materna tanto para el bebé como para la madre.
         
         div.col-lg-3.mb-4(data-aos="zoom-in-up")
@@ -200,7 +200,7 @@
               alt=""
               style="width: 90px"
             )
-            h4 Apoyo comunitario
+            h4.text-center Apoyo comunitario
             p.mb-0.text-center Crear redes de apoyo para madres lactantes, incluyendo grupos de apoyo y recursos en la comunidad.
         
         div.col-lg-3.mb-4(data-aos="zoom-in-up")
@@ -210,7 +210,7 @@
               alt=""
               style="width: 90px"
             )
-            h4 Políticas y legislación
+            h4.text-center Políticas y legislación
             p.mb-0.text-center Promover políticas y leyes que protejan y faciliten la lactancia materna en lugares públicos y en el trabajo.
 
         div.col-lg-3.mb-4(data-aos="zoom-in-up")
@@ -220,12 +220,12 @@
               alt=""
               style="width: 90px"
             )
-            h4 Concienciación pública
+            h4.text-center Concienciación pública
             p.mb-0.text-center Aumentar la visibilidad y aceptación de la lactancia materna en la sociedad.
 
 
       .bg-full-width.bg-color-8.mb-4
-        .px-lg-5.py-4
+        .px-4.px-lg-5.py-4
           p.mb-0(data-aos="fade-left") En la #[b Semana Mundial de la Lactancia Materna], que se celebra a nivel global cada año del 1 al 7 de agosto, con el apoyo de la OMS y UNICEF, se busca crear entornos propicios para la lactancia materna y compartir información sobre sus beneficios.
 
 
@@ -290,7 +290,7 @@
               img(src="@/assets/curso/tema3/figura2.png", data-aos="zoom-in", style="max-width: 817px;").mx-auto
       figcaption.mb-5(style="background-color: #DCE8FA;") Nota. Tomado y adaptado de https://www.ilerna.es/blog/denticion-temporal-permanente 
 
-      .bg-full-width.bg-color-5.p-4
+      .bg-full-width.bg-color-5.p-4.px-5
         .row.align-items-center
           .col-lg-auto
             img(src="@/assets/curso/tema3/15.svg", style="max-width: 90px").mx-auto

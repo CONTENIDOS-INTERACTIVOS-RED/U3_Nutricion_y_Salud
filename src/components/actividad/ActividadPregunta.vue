@@ -1,8 +1,8 @@
 <template>
   <div>
     <div class="row align-items-center">
-      <div class="col-6">
-        <div class="pe-4">
+      <div class="col-lg-6">
+        <div class="pe-4 mb-4 mb-lg-0">
           <div class="row">
             <div class="col-auto">
               <span class="question__number">{{ numeroPregunta }}</span>
@@ -13,7 +13,7 @@
           </div>
         </div>
       </div>
-      <div class="col">
+      <div class="col-lg">
         <div
           v-for="(respuesta, idx) in opcionesComputed"
           :key="respuesta.id"

@@ -35,7 +35,7 @@
 
 
       .bg-full-width.bg-color-3.mb-5
-        .px-lg-5.pt-5.pt-lg-0
+        .px-4.px-lg-5.pt-5.pt-lg-0
 
           .row.justify-content-center.align-items-center
 
@@ -97,7 +97,7 @@
                   h4.text-center.mb-4 Hortalizas
 
       .bg-full-width.bg-color-8.mb-4
-        .px-lg-5.py-4
+        .px-4.px-lg-5.py-4
           p.mb-0(data-aos="fade-left") El país es un importante productor de frutas y frutas exóticas. En el año 2021, la producción nacional de frutas frescas alcanzó los 12,4 millones de toneladas. En cuanto a las hortalizas, Antioquia, Boyacá y Cundinamarca, son las regiones que concentran el 58 % del volumen producido. 
 
 
@@ -207,7 +207,7 @@
                       span Ver video
                       i.fas.fa-arrow-right
 
-      .bg-full-width.bg-color-3.p-4
+      .bg-full-width.bg-color-3.p-4.px-5
         .row.align-items-center
           .col-lg-auto
             img(src="@/assets/curso/tema2/16.svg", style="max-width: 90px").mx-auto

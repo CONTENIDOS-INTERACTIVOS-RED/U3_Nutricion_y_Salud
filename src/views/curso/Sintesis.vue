@@ -7,5 +7,5 @@
       .row.justify-content-center
         .col-lg-12.mb-5
           figure.bg-color-sintesis.p-5.brounded
-            img(src='@/assets/curso/sintesis.svg', alt='', data-aos="zoom-in")
+            img(src='@/assets/curso/sintesis3.svg', alt='', data-aos="zoom-in")
 </template>
